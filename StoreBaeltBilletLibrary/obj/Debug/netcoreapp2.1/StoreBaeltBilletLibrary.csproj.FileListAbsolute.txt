@@ -1,0 +1,12 @@
+C:\Users\Arlin\source\gitRepos\storebaeltlibrary-Quka\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.deps.json
+C:\Users\Arlin\source\gitRepos\storebaeltlibrary-Quka\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.dll
+C:\Users\Arlin\source\gitRepos\storebaeltlibrary-Quka\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.pdb
+C:\Users\Arlin\source\gitRepos\storebaeltlibrary-Quka\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\Users\Arlin\source\gitRepos\storebaeltlibrary-Quka\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.xml
+C:\Users\Arlin\source\gitRepos\storebaeltlibrary-Quka\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.csprojAssemblyReference.cache
+C:\Users\Arlin\source\gitRepos\storebaeltlibrary-Quka\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Arlin\source\gitRepos\storebaeltlibrary-Quka\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.AssemblyInfoInputs.cache
+C:\Users\Arlin\source\gitRepos\storebaeltlibrary-Quka\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.AssemblyInfo.cs
+C:\Users\Arlin\source\gitRepos\storebaeltlibrary-Quka\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.csproj.CopyComplete
+C:\Users\Arlin\source\gitRepos\storebaeltlibrary-Quka\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.dll
+C:\Users\Arlin\source\gitRepos\storebaeltlibrary-Quka\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.pdb

@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:BilletLibrary.Bil">
+            <summary>
+            Creates a Bil object with price and vehicle type information
+            </summary>
+        </member>
+        <member name="M:BilletLibrary.Bil.Pris">
+            <summary>
+            Get the price of the car
+            </summary>
+            <returns>Returns 240 as a decimal</returns>
+        </member>
+        <member name="M:BilletLibrary.Bil.Type">
+            <summary>
+            Get the type of the vehicle
+            </summary>
+            <returns>Returns Bil as a string</returns>
+        </member>
+        <member name="P:BilletLibrary.Køretøj.Nummerplade">
+            <summary>
+            The serialnr. of this vehicle
+            </summary>
+        </member>
+        <member name="P:BilletLibrary.Køretøj.Dato">
+            <summary>
+            The date of when this vehicle has passed a/any bridge or passing
+            </summary>
+        </member>
+        <member name="P:BilletLibrary.Køretøj.Brobizz">
+            <summary>
+            Is true if this vehicle has used brobizz, false if not
+            </summary>
+        </member>
+        <member name="M:BilletLibrary.Køretøj.Pris">
+            <summary>
+            Get the price of the car
+            </summary>
+            <returns>Returns a price as a decimal</returns>
+        </member>
+        <member name="M:BilletLibrary.Køretøj.Type">
+            <summary>
+            Get the type of the vehicle
+            </summary>
+            <returns>Returns a vehicle as a string</returns>
+        </member>
+        <member name="T:BilletLibrary.MC">
+            <summary>
+            Creates an MC object with price and vehicle type information
+            </summary>
+        </member>
+        <member name="M:BilletLibrary.MC.Pris">
+            <summary>
+            Get the price of the MC
+            </summary>
+            <returns>Returns 125 as a decimal</returns>
+        </member>
+        <member name="M:BilletLibrary.MC.Type">
+            <summary>
+            Get the type of the vehicle
+            </summary>
+            <returns>Returns MC as a string</returns>
+        </member>
+    </members>
+</doc>

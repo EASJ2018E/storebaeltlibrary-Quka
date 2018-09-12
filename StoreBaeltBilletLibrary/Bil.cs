@@ -5,8 +5,19 @@ using BilletLibrary;
 
 namespace StoreBaeltBilletLibrary
 {
-	class Bil : BilletLibrary.Bil
+	public class Bil : BilletLibrary.Bil
 	{
-		
+		public override decimal Pris()
+		{
+			decimal price = base.Pris();
+			// Check if weekend
+			if (Dato.DayOfWeek == DayOfWeek.Saturday ||
+			    Dato.DayOfWeek == DayOfWeek.Sunday)
+			{
+				price = price * 0.8m;
+			}
+
+			return price;
+		}
 	}
 }

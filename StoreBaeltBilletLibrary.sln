@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreBaeltBilletLibrary", "StoreBaeltBilletLibrary\StoreBaeltBilletLibrary.csproj", "{F3786702-2F70-453D-98CA-A91CFFCE818F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreBaeltBilletLibrary", "StoreBaeltBilletLibrary\StoreBaeltBilletLibrary.csproj", "{F3786702-2F70-453D-98CA-A91CFFCE818F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreBaeltBilletLibrary.Tests", "StoreBaeltBilletLibrary.Tests\StoreBaeltBilletLibrary.Tests.csproj", "{83321FB0-12A1-4CAF-93C3-06C2857FB643}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F3786702-2F70-453D-98CA-A91CFFCE818F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3786702-2F70-453D-98CA-A91CFFCE818F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3786702-2F70-453D-98CA-A91CFFCE818F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83321FB0-12A1-4CAF-93C3-06C2857FB643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83321FB0-12A1-4CAF-93C3-06C2857FB643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83321FB0-12A1-4CAF-93C3-06C2857FB643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83321FB0-12A1-4CAF-93C3-06C2857FB643}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
