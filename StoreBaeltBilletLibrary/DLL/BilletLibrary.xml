@@ -9,7 +9,7 @@
             Creates a Bil object with price and vehicle type information
             </summary>
         </member>
-        <member name="M:BilletLibrary.Bil.Pris(System.Boolean)">
+        <member name="M:BilletLibrary.Bil.Pris">
             <summary>
             Get the price of the car
             </summary>
@@ -21,13 +21,25 @@
             </summary>
             <returns>Returns Bil as a string</returns>
         </member>
-        <member name="M:BilletLibrary.Køretøj.Pris(System.Boolean)">
+        <member name="P:BilletLibrary.Køretøj.Nummerplade">
+            <summary>
+            The serialnr. of this vehicle
+            </summary>
+        </member>
+        <member name="P:BilletLibrary.Køretøj.Dato">
+            <summary>
+            The date of when this vehicle has passed a/any bridge or passing
+            </summary>
+        </member>
+        <member name="P:BilletLibrary.Køretøj.Brobizz">
+            <summary>
+            Is true if this vehicle has used brobizz, false if not
+            </summary>
+        </member>
+        <member name="M:BilletLibrary.Køretøj.Pris">
             <summary>
             Get the price of the car
             </summary>
-            <param name="brobizzUsed">
-            Pass true if brobizz is used for 5% rebate, false if no rebate	
-            </param>
             <returns>Returns a price as a decimal</returns>
         </member>
         <member name="M:BilletLibrary.Køretøj.Type">
@@ -41,7 +53,7 @@
             Creates an MC object with price and vehicle type information
             </summary>
         </member>
-        <member name="M:BilletLibrary.MC.Pris(System.Boolean)">
+        <member name="M:BilletLibrary.MC.Pris">
             <summary>
             Get the price of the MC
             </summary>
