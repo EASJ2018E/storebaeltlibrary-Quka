@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:BilletLibrary.Bil">
+            <summary>
+            Creates a Bil object with price and vehicle type information
+            </summary>
+        </member>
+        <member name="M:BilletLibrary.Bil.Pris(System.Boolean)">
+            <summary>
+            Get the price of the car
+            </summary>
+            <returns>Returns 240 as a decimal</returns>
+        </member>
+        <member name="M:BilletLibrary.Bil.Type">
+            <summary>
+            Get the type of the vehicle
+            </summary>
+            <returns>Returns Bil as a string</returns>
+        </member>
+        <member name="M:BilletLibrary.Køretøj.Pris(System.Boolean)">
+            <summary>
+            Get the price of the car
+            </summary>
+            <param name="brobizzUsed">
+            Pass true if brobizz is used for 5% rebate, false if no rebate	
+            </param>
+            <returns>Returns a price as a decimal</returns>
+        </member>
+        <member name="M:BilletLibrary.Køretøj.Type">
+            <summary>
+            Get the type of the vehicle
+            </summary>
+            <returns>Returns a vehicle as a string</returns>
+        </member>
+        <member name="T:BilletLibrary.MC">
+            <summary>
+            Creates an MC object with price and vehicle type information
+            </summary>
+        </member>
+        <member name="M:BilletLibrary.MC.Pris(System.Boolean)">
+            <summary>
+            Get the price of the MC
+            </summary>
+            <returns>Returns 125 as a decimal</returns>
+        </member>
+        <member name="M:BilletLibrary.MC.Type">
+            <summary>
+            Get the type of the vehicle
+            </summary>
+            <returns>Returns MC as a string</returns>
+        </member>
+    </members>
+</doc>
